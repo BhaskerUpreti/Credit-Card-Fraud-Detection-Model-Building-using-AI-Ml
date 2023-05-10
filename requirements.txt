@@ -4,5 +4,10 @@ xgboost
 scikit-learn
 matplotlib
 seaborn
-scipy
+scipy   
 statsmodels
+
+
+CSV file link :--
+
+https://www.kaggle.com/mlg-ulb/creditcardfraud
